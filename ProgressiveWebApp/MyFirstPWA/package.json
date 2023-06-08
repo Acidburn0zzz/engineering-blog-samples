@@ -10,6 +10,6 @@
   "author": "Mohammed Modi",
   "license": "ISC",
   "dependencies": {
-    "serve": "^11.3.2"
+    "serve": "^14.2.0"
   }
 }
